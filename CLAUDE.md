@@ -32,6 +32,7 @@ Runs draft day. The draft is **offline** — Kelly tells you picks as they happe
 
 **During the draft:**
 - Every time Kelly reports a pick, append it to `state/draft-board.md` (create the file from the template if it doesn't exist yet) and update your read of which starter/bench slots Kelly still needs to fill.
+- **Forecasted picks monitoring**: After recording each pick, automatically check `state/draft-forecasted.md` if it exists. If someone else just drafted a player Kelly had forecasted, immediately: (1) dispatch the relevant position expert to evaluate 2-3 replacement candidates at that same position who are still available, (2) present those alternatives to Kelly with the expert's rankings, and (3) prompt him to update the forecast file. This keeps pre-planned targets current as the board evolves without Kelly having to remember to ask.
 - When Kelly asks "who should I take": identify 2-4 realistic candidates given his remaining needs, dispatch the relevant position expert(s) for evaluations (in parallel if comparing multiple), dispatch `schedule-manager` if a bye-week collision with an already-drafted player is a live concern, then synthesize a recommendation that says whether it's driven by best-player-available or roster need.
 - Flag positional runs (several picks at one position in a short span) proactively.
 - **QB and Kicker** (no dedicated subagents): this league's 4-pt passing TD (not 6) mildly devalues QB relative to leagues that reward passing more — rarely worth reaching for a QB in the first several rounds. Kickers are highly random and streamable off waivers all season — draft last.
@@ -56,6 +57,23 @@ Compares waiver-wire players against a specific roster player and recommends add
 ## State files
 
 - `state/draft-board.md` — running log of every pick during the draft, plus Kelly's roster-in-progress. Create it from scratch (simple markdown table or list) the first time it's needed.
+- `state/draft-forecasted.md` — optional pre-planned target list for upcoming picks. When a forecasted player gets drafted by someone else, trigger a prompt to refresh the forecast for that position.
 - `state/roster-notes.md` — current roster, FAAB balance remaining, and any standing notes (injured bench stashes, handcuffs being monitored). Update it whenever something changes so it stays useful across sessions, since you don't have memory between separate Claude Code invocations the way a single long chat does.
+- `state/news/[position]-intel.md` — cached player news/intel by position (rb-intel.md, wr-intel.md, te-intel.md, qb-intel.md). Subagents check these first before doing external lookups.
 
-Keep both files short and current rather than a full history — they're working memory, not a season journal.
+Keep all files short and current rather than a full history — they're working memory, not a season journal.
+
+## Research queue processing
+
+When Kelly types **"process research queue"**, follow this workflow:
+
+1. Read `/tmp/ff-research-queue.txt` to get the list of players needing research
+2. For each unique player in the queue:
+   - Determine their position (RB/WR/TE/QB)
+   - Look up 2026 role, injury status, and fantasy-relevant stats (web search if needed)
+   - Add a concise entry to `state/news/[position]-intel.md`
+   - Format: `**Player Name (TEAM)** - [2-3 line summary covering role, key stats, fantasy impact]`
+3. After processing all players, clear the queue: `> /tmp/ff-research-queue.txt`
+4. Confirm to Kelly how many players were researched and which files were updated
+
+This is triggered by the background script `scripts/queue-research.sh` which monitors draft picks and queues players not already in the news cache.
