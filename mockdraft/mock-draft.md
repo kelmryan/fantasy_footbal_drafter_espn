@@ -137,24 +137,108 @@ _Practice draft to test workflow_
 | 111 | Joey | Michael Wilson | WR |
 | 112 | **SlickDaddy Club (Kelly)** | **49ers D/ST** | **D/ST** |
 | 113 | **SlickDaddy Club (Kelly)** | **Jake Moody** | **K** |
+| 114 | Matt | Aidan O'Connell | QB |
+| 115 | Kevin | Marvin Mims | WR |
+| 116 | Larry | Dalton Schultz | TE |
+| 117 | Adam | Trey Sermon | RB |
+| 118 | Chuck | Tutu Atwell | WR |
+| 119 | Dave | Isaiah Likely | TE |
+| 120 | Lee | Dontayvion Wicks | WR |
+| 121 | Graham | Antonio Gibson | RB |
+| 122 | Andy | Keaton Mitchell | RB |
+| 123 | Mike | Noah Fant | TE |
+| 124 | John | Rondale Moore | WR |
+| 125 | Brew | Chase Brown | RB |
+| 126 | Brew | Rakim Jarrett | WR |
+| 127 | John | Bryce Young | QB |
+| 128 | Mike | Jalen Tolbert | WR |
+| 129 | Andy | Russell Wilson | QB |
+| 130 | Graham | Josh Downs | WR |
+| 131 | Lee | Zach Ertz | TE |
+| 132 | Dave | KJ Osborn | WR |
+| 133 | Chuck | Greg Dulcich | TE |
+| 134 | Adam | Kenneth Gainwell | RB |
+| 135 | Larry | Trey Palmer | WR |
+| 136 | Kevin | Ezekiel Elliott | RB |
+| 137 | Matt | Rashid Shaheed | WR |
+| 138 | Joey | Taysom Hill | TE |
+| 139 | Joey | Kenny Pickett | QB |
+| 140 | **SlickDaddy Club (Kelly)** | **Tyler Goodson** | **RB** |
+| 141 | **SlickDaddy Club (Kelly)** | **Wan'Dale Robinson** | **WR** |
+| 142 | Matt | Jahan Dotson | WR |
+| 143 | Kevin | Desmond Ridder | QB |
+| 144 | Larry | Jonathan Mingo | WR |
+| 145 | Adam | Sam Howell | QB |
+| 146 | Chuck | Tyler Higbee | TE |
+| 147 | Dave | Jamaal Williams | RB |
+| 148 | Lee | Jake Ferguson | TE |
+| 149 | Graham | Elijah Mitchell | RB |
+| 150 | Andy | Devon Achane | RB |
+| 151 | Mike | Josh Reynolds | WR |
+| 152 | John | Kylen Granson | TE |
+| 153 | Brew | Isaiah Hodgins | WR |
+| 154 | Brew | Jeff Wilson Jr | RB |
+| 155 | John | Mecole Hardman | WR |
+| 156 | Mike | Hayden Hurst | TE |
+| 157 | Andy | Devin Singletary | RB |
+| 158 | Graham | Cedric Tillman | WR |
+| 159 | Lee | Joshua Kelley | RB |
+| 160 | Dave | Drew Lock | QB |
+| 161 | Chuck | Odell Beckham Jr | WR |
+| 162 | Adam | Michael Carter | RB |
+| 163 | Larry | Logan Thomas | TE |
+| 164 | Kevin | Trayveon Williams | RB |
+| 165 | Matt | Gardner Minshew | QB |
+| 166 | Joey | Kendrick Bourne | WR |
+| 167 | Joey | Ty Chandler | RB |
+| 168 | **SlickDaddy Club (Kelly)** | **Tank Bigsby** | **RB** |
+| 169 | **SlickDaddy Club (Kelly)** | **Khalil Shakir** | **WR** |
+| 170 | Matt | Terrace Marshall Jr | WR |
+| 171 | Kevin | Craig Reynolds | RB |
+| 172 | Larry | DJ Chark | WR |
+| 173 | Adam | Durham Smythe | TE |
+| 174 | Chuck | Donovan Peoples-Jones | WR |
+| 175 | Dave | Jamison Crowder | WR |
+| 176 | Lee | Samaje Perine | RB |
+| 177 | Graham | Parris Campbell | WR |
+| 178 | Andy | Boston Scott | RB |
+| 179 | Mike | Tyler Conklin | TE |
+| 180 | John | James Robinson | RB |
+| 181 | Brew | Darius Slayton | WR |
+| 182 | Brew | Sony Michel | RB |
+| 183 | John | Kyle Pitts | TE |
+| 184 | Mike | Jamal Agnew | WR |
+| 185 | Andy | Jerick McKinnon | RB |
+| 186 | Graham | Preston Williams | WR |
+| 187 | Lee | Damien Harris | RB |
+| 188 | Dave | Will Dissly | TE |
+| 189 | Chuck | Nelson Agholor | WR |
+| 190 | Adam | James Washington | WR |
+| 191 | Larry | Marquez Callaway | WR |
+| 192 | Kevin | Latavius Murray | RB |
+| 193 | Matt | Dante Pettis | WR |
+| 194 | Joey | Chester Rogers | WR |
+| 195 | Joey | D'Ernest Johnson | RB |
+| 196 | **SlickDaddy Club (Kelly)** | **Jonathon Brooks** | **RB** |
+| 197 | **SlickDaddy Club (Kelly)** | **Will Levis** | **QB** |
 
-## Kelly's roster so far (SlickDaddy Club)
+## Kelly's Final Mock Draft Roster (SlickDaddy Club)
 
-| Slot | Player |
-|------|--------|
-| QB | Anthony Richardson |
-| RB | Bijan Robinson |
-| RB | Javonte Williams |
-| WR | Nico Collins |
-| WR | Rashee Rice |
-| TE | Evan Engram |
-| FLEX | |
-| D/ST | 49ers |
-| K | Jake Moody |
-| BE | Jaleel McLaughlin |
-| BE | |
-| BE | |
-| BE | |
-| BE | |
-| BE | |
-| BE | |
+| Slot | Player | Pick # |
+|------|--------|--------|
+| QB | Anthony Richardson | 84 |
+| RB | Bijan Robinson | 1 |
+| RB | Javonte Williams | 28 |
+| WR | Nico Collins | 29 |
+| WR | Rashee Rice | 56 |
+| TE | Evan Engram | 57 |
+| FLEX | Tyler Goodson | 140 |
+| D/ST | 49ers | 112 |
+| K | Jake Moody | 113 |
+| BE | Jaleel McLaughlin (RB) | 85 |
+| BE | Wan'Dale Robinson (WR) | 141 |
+| BE | Tank Bigsby (RB) | 168 |
+| BE | Khalil Shakir (WR) | 169 |
+| BE | Jonathon Brooks (RB - INJ) | 196 |
+| BE | Will Levis (QB) | 197 |
+| BE | *(empty)* | - |

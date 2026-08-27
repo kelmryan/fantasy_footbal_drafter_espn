@@ -71,3 +71,9 @@ _Last updated: August 27, 2026_
 - **Status:** Unknown
 - **2026 Rank:** Not in top-25 TEs
 - **News:** Limited fantasy relevance; deep bench/streaming option only
+
+## Logan Thomas - SF
+- **Bye Week:** TBD
+- **Status:** Unknown
+- **2026 Rank:** Not in top-30 TEs
+- **News:** Veteran depth piece; no fantasy value unless injury to starter; avoid

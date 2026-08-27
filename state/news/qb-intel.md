@@ -55,3 +55,9 @@ _Last updated: August 27, 2026_
 - **Status:** Healthy
 - **2026 Rank:** Mid-tier QB1 with rushing upside
 - **News:** Young dual-threat QB; high ceiling, moderate floor; worth mid-round pick in 4-pt passing TD league
+
+## Gardner Minshew - LV
+- **Bye Week:** TBD
+- **Status:** Healthy
+- **2026 Rank:** QB25-30 (backup/streaming)
+- **News:** Career journeyman; spot-start streaming option only; not worth rostering in 1QB leagues

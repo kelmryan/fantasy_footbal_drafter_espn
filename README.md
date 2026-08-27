@@ -15,6 +15,16 @@ CLAUDE.md                    ← the playbook Claude reads automatically every s
 state/
     draft-board.md            ← fills in live during your draft
     roster-notes.md           ← your current roster + FAAB balance, kept current across sessions
+    news/                     ← cached player intel (RB/WR/TE/QB); checked before web lookups
+        rb-intel.md
+        wr-intel.md
+        te-intel.md
+        qb-intel.md
+scripts/
+    queue-research.sh         ← monitors draft picks, queues players needing research
+    auto-research.sh          ← alternative with auto-dispatch (less reliable)
+    generate-research-prompt.sh
+    README.md                 ← detailed script documentation
 ```
 
 **Why 5 subagents instead of 8?** The position experts (RB/WR/TE/DST) and the schedule researcher are self-contained lookups — a good fit for Claude Code's subagents, which each run in their own isolated context and can even run in parallel. "Draft Manager," "Team Manager," and "Free Agent Manager" aren't subagents — they're roles Claude plays at the top level of your conversation, because they need to remember things (the draft board, your roster) across many turns, which a one-shot subagent can't do. That memory lives in the `state/` files instead, so it survives even if you close VS Code and come back later.
@@ -40,6 +50,63 @@ state/
 > "What's my biggest roster need right now?"
 
 Claude will dispatch the right specialist subagent(s) behind the scenes and give you one synthesized answer — you shouldn't need to invoke `.claude/agents/rb-expert.md` etc. by name, though you can ("ask the rb-expert about...") if you want to be explicit.
+
+## Automated draft research (recommended)
+
+During a draft, new picks happen fast. The **queue-research** script monitors your draft file in the background, checks which players are already in your news cache (`state/news/`), and queues the rest for research — so you can batch-process intel when you have a moment instead of falling behind.
+
+**Quick setup:**
+
+1. **Terminal 1 (this window):** Run Claude Code for your draft session
+2. **Terminal 2 (separate window):**
+   ```bash
+   cd /mnt/c/Users/swimm/programming/fantasy_football_espn
+   ./scripts/queue-research.sh state/draft-board.md &
+   ```
+
+**What happens:**
+- Script checks for new picks every 5 seconds
+- ✅ **Player already in `state/news/`** → skipped (you have intel)
+- 📝 **Player NOT in cache** → added to queue
+- When queue builds up, you'll see: `💡 To process queue, type in Claude Code: process research queue`
+
+**To process the queue:**
+Just type in Claude Code (Terminal 1):
+```
+process research queue
+```
+
+Claude will:
+1. Read all players from `/tmp/ff-research-queue.txt`
+2. Research each one (checking position, injury status, 2026 role)
+3. Add concise entries to the appropriate `state/news/[position]-intel.md` file
+4. Clear the queue file
+
+The next time those players appear (e.g., in a later mock draft), they'll be in cache and won't need re-research.
+
+**Benefits:**
+- **Fast:** Pre-cache research means instant lookups during live draft
+- **Smart:** Only researches players you don't already have intel on
+- **Flexible:** Process queue whenever you have time (between your picks, during breaks)
+- **Persistent:** News cache survives across sessions; mock draft research accelerates real draft
+
+**Example workflow:**
+```bash
+# Terminal 2: Start monitoring
+./scripts/queue-research.sh state/mock-draft.md &
+
+# Wait for: "💡 To process queue, type in Claude Code: process research queue"
+
+# Terminal 1 (Claude Code): Process queue
+> process research queue
+
+# Claude researches and updates state/news/*.md
+# Queue cleared, monitoring continues
+
+# Later picks automatically queue new players only
+```
+
+See `scripts/README.md` for full documentation, troubleshooting, and alternative scripts.
 
 ## Optional: live ESPN access
 

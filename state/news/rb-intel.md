@@ -185,3 +185,41 @@ _Last updated: August 27, 2026_
 - **Status:** Healthy
 - **2026 Rank:** RB38-RB41
 - **Role:** Handcuff/committee back behind Kyren Williams; late-round flier
+
+## Michael Carter - ARI
+- **Bye Week:** TBD
+- **Status:** Unknown
+- **2026 Rank:** Not in top-70 RBs
+- **News:** Deep depth piece; no standalone fantasy value; avoid
+
+## Trayveon Williams - CIN
+- **Bye Week:** TBD
+- **Status:** Unknown
+- **2026 Rank:** Not in top-70 RBs
+- **News:** Third-string/practice squad RB; no fantasy relevance; avoid
+
+## Ty Chandler - MIN
+- **Bye Week:** TBD
+- **Status:** Healthy
+- **2026 Rank:** RB55-65 (handcuff)
+- **News:** Backup to Aaron Jones; only valuable if Jones injured; late-round handcuff at best
+
+## D'Ernest Johnson - FA
+- **Bye Week:** N/A
+- **Status:** Unknown
+- **2026 Rank:** Not in top-80 RBs
+- **News:** Practice squad/depth piece; no fantasy value; avoid
+
+## Latavius Murray - FA
+- **Bye Week:** N/A
+- **Status:** Unknown
+- **2026 Rank:** Not in top-80 RBs
+- **News:** Veteran depth/practice squad; no fantasy relevance; avoid
+
+## Jonathon Brooks - CAR
+- **Bye Week:** TBD
+- **Status:** Fully healthy for first time since 2024; recovered from second ACL tear
+- **2026 Rank:** RB50-60 (ADP ~100 overall)
+- **Injury History:** Tore ACL in college, re-tore same knee Dec 2024; missed entire 2025 season
+- **Role:** RB2/change-of-pace behind Chuba Hubbard; ~15-touch ceiling
+- **News:** High-risk/high-reward late-round flier; injury to Hubbard boosts Brooks' stock; ACL concerns cap upside

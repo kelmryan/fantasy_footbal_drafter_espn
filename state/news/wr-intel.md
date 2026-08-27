@@ -234,3 +234,33 @@ _Last updated: August 27, 2026_
 - **Status:** Unknown
 - **2026 Rank:** Not in 2026 rankings
 - **News:** Likely retired or unsigned; avoid
+
+## Kendrick Bourne - NE
+- **Bye Week:** TBD
+- **Status:** Unknown
+- **2026 Rank:** Not in top-75 WRs
+- **News:** Deep bench WR; WR5/WR6 depth piece only; minimal fantasy value
+
+## Chester Rogers - FA
+- **Bye Week:** N/A
+- **Status:** Unknown
+- **2026 Rank:** Not in top-100 WRs
+- **News:** Practice squad WR; no fantasy value; avoid
+
+## Dante Pettis - FA
+- **Bye Week:** N/A
+- **Status:** Unknown
+- **2026 Rank:** Not in top-100 WRs
+- **News:** Practice squad depth; no fantasy relevance; avoid
+
+## James Washington - FA
+- **Bye Week:** N/A
+- **Status:** Unknown
+- **2026 Rank:** Not in top-100 WRs
+- **News:** Veteran depth piece; no fantasy value; avoid
+
+## Marquez Callaway - FA
+- **Bye Week:** N/A
+- **Status:** Unknown
+- **2026 Rank:** Not in top-100 WRs
+- **News:** Practice squad/depth WR; no fantasy relevance; avoid
