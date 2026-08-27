@@ -60,8 +60,30 @@ Compares waiver-wire players against a specific roster player and recommends add
 - `state/draft-forecasted.md` — optional pre-planned target list for upcoming picks. When a forecasted player gets drafted by someone else, trigger a prompt to refresh the forecast for that position.
 - `state/roster-notes.md` — current roster, FAAB balance remaining, and any standing notes (injured bench stashes, handcuffs being monitored). Update it whenever something changes so it stays useful across sessions, since you don't have memory between separate Claude Code invocations the way a single long chat does.
 - `state/news/[position]-intel.md` — cached player news/intel by position (rb-intel.md, wr-intel.md, te-intel.md, qb-intel.md). Subagents check these first before doing external lookups.
+- `state/research/` — **pre-written strategy documents** for draft and roster decisions. Agents should reference these files BEFORE making recommendations to ensure consistent, token-efficient decisions. See `state/research/README.md` for full index.
 
 Keep all files short and current rather than a full history — they're working memory, not a season journal.
+
+## Strategy files (state/research/)
+
+**IMPORTANT:** Agents should reference these files for EVERY draft and roster decision to ensure consistent strategy and reduce token usage.
+
+**Core strategy files:**
+- `draft-strategy-core.md` — overall draft philosophy, value-based drafting, risk management, PPR leverage
+- `positional-value-tiers.md` — when to draft each position (QB, RB, WR, TE, D/ST, K), round-by-round priorities
+- `ppr-scoring-advantage.md` — how to leverage full PPR scoring (target high-reception players)
+- `bye-week-management.md` — rules for avoiding bye week clustering (check BEFORE every pick)
+- `late-round-strategy.md` — handcuff strategy, lottery tickets, when to draft D/ST (Round 13) and K (Round 14)
+
+**How agents use these files:**
+1. **Read the relevant strategy file(s)** before making a recommendation
+2. **Apply the rules** to the specific decision (e.g., "Per positional-value-tiers.md, Rounds 2-3 prioritize RB + WR")
+3. **Cite the specific file and rule** in your response (saves tokens by referencing pre-written logic instead of regenerating it)
+
+**Example:**
+> "Recommendation: Draft **Javonte Williams (RB)** at pick 28. Per `positional-value-tiers.md`, Rounds 2-3 should prioritize RB + WR to secure positional balance. Per `bye-week-management.md`, Javonte's Week 10 bye avoids conflict with Bijan's Week 11 bye."
+
+See `state/research/README.md` for full documentation on when to use each file.
 
 ## Research queue processing
 
