@@ -55,11 +55,11 @@ _Last updated: August 27, 2026_
 - **2025:** QB20 in fantasy scoring (QB16 per game); missed 4 games (hamstring, back); dealt with knee, ankle, toe problems
 - **News:** Finished QB1 in 2024 but QB20 in 2025; strong bet to rebound at discounted ADP
 
-## Anthony Richardson - IND
+## Anthony Richardson - IND ❌ CORRECTED (was wrong — see below)
 - **Bye Week:** TBD
-- **Status:** Healthy
-- **2026 Rank:** Mid-tier QB1 with rushing upside
-- **News:** Young dual-threat QB; high ceiling, moderate floor; worth mid-round pick in 4-pt passing TD league
+- **Status:** NOT the starter. Daniel Jones signed a 2yr/$88M deal and is the unquestioned 2026 QB1. Richardson requested a trade this offseason and is now competing with Riley Leonard just for the backup job — not guaranteed even that. Colts are open to trading him if a suitor emerges; multiple teams have inquired ahead of roster cuts. Still dealing with vision limitations from a freak injury (Week 6, 2025).
+- **2026 Rank:** No standalone fantasy value as currently rostered — QB3 on his own depth chart at best, real risk of being cut/traded before Week 1.
+- **News:** Previous cache entry ("mid-tier QB1 with rushing upside") was stale/wrong — corrected August 29, 2026 after Kelly drafted him expecting a starting role. Do not recommend him as a rushing-floor starter unless his situation changes (trade to a starting job, injury to Jones, wins the Colts backup job outright).
 
 ## Gardner Minshew - LV
 - **Bye Week:** TBD

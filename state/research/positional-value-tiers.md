@@ -87,7 +87,7 @@ _Quick reference for agents to know when each position should be drafted_
 - **IF only Jalen Hurts / CJ Stroud types available** → WAIT (not worth it in 4-pt passing TD league)
 
 **Mock draft:**
-- Pick 84: Anthony Richardson (QB) — dual-threat upside, mid-tier QB1
+- Pick 84: [example only — verify current starter status before naming a real QB here; do not treat any specific name in this doc as a standing recommendation]
 - Pick 85: Jaleel McLaughlin (RB) — FLEX/bench depth
 
 **RB/WR balance check:**

@@ -12,11 +12,13 @@ This project turns Claude Code into Kelly's fantasy football command center for 
 - Waivers: FAAB, $100 season budget, 1-day waiver period, no season acquisition limit, weekly tiebreak = inverse standings
 - Trade deadline: Nov 20, 2026
 - Playoffs: 6 teams, weeks 15-17, seeding tiebreak = total points for
-- No QB or Kicker specialist subagent exists — see the "QB and Kicker" note below.
+- No Kicker specialist subagent exists — see the "QB and Kicker" note below. A `qb-expert` subagent does exist (added after a bad recommendation — see below).
 
 ## The subagents you have
 
-Five focused specialists live in `.claude/agents/`, each with their own isolated context: `rb-expert`, `wr-expert`, `te-expert`, `dst-expert`, `schedule-manager`. Dispatch to them with the Task tool whenever you need a position judged or current-week schedule/injury/matchup facts — don't freelance those evaluations yourself, and don't let a position expert guess at current-week data it wasn't given.
+Six focused specialists live in `.claude/agents/`, each with their own isolated context: `rb-expert`, `wr-expert`, `te-expert`, `qb-expert`, `dst-expert`, `schedule-manager`. Dispatch to them with the Task tool whenever you need a position judged or current-week schedule/injury/matchup facts — don't freelance those evaluations yourself, and don't let a position expert guess at current-week data it wasn't given.
+
+**QB specifically**: always use the `qb-check` skill (or dispatch `qb-expert` directly) rather than recommending a QB from memory or a cached intel file alone. `qb-expert` is required to run a fresh "who is starting" search before assigning a starter-tier recommendation — see `state/research/qb-value-tiers.md` for the round-based weighting scale. This exists because Anthony Richardson was once recommended as a starting rushing-QB1 off a stale cache entry when he'd actually lost his job to a newly-signed starter and was fighting for a backup role.
 
 **Typical pattern:** dispatch `schedule-manager` first to get the live matchup/injury/bye context, then include that context directly in the prompt when you dispatch the relevant position expert(s). You can dispatch multiple position experts in parallel (e.g., three RB candidates at once) when comparing several players — that's faster than doing it one at a time.
 
@@ -36,7 +38,8 @@ Runs draft day. The draft is **offline** — Kelly tells you picks as they happe
 - When Kelly asks "who should I take": identify 2-4 realistic candidates given his remaining needs, dispatch the relevant position expert(s) for evaluations (in parallel if comparing multiple), dispatch `schedule-manager` if a bye-week collision with an already-drafted player is a live concern, then synthesize a recommendation that says whether it's driven by best-player-available or roster need.
 - Flag positional runs (several picks at one position in a short span) proactively.
 - **Falling-player check (within 4 picks of Kelly's turn)**: once the draft is 4 picks or fewer from Kelly's next selection (the monitor script in `scripts/queue-research.sh` prints an alert at this threshold), cross-check who's still undrafted against the current top-5 forecast. If someone still on the board is clearly better/higher-consensus than anyone in that top-5 (a talent who fell further than expected), dispatch the relevant position expert to evaluate them specifically and surface them as an addition to — not just a replacement in — the top-5 list, even though they weren't originally forecasted.
-- **QB and Kicker** (no dedicated subagents): this league's 4-pt passing TD (not 6) mildly devalues QB relative to leagues that reward passing more — rarely worth reaching for a QB in the first several rounds. Kickers are highly random and streamable off waivers all season — draft last.
+- **QB**: this league's 4-pt passing TD (not 6) mildly devalues QB relative to leagues that reward passing more — rarely worth reaching for a QB in the first several rounds. Use the `qb-check` skill or dispatch `qb-expert` (see `state/research/qb-value-tiers.md`) for any QB recommendation — never recommend one from memory or an unverified cache entry.
+- **Kicker** (no dedicated subagent): highly random and streamable off waivers all season — draft last.
 - Remind Kelly, once the draft wraps, to enter the final results into ESPN himself (offline draft = ESPN won't have it automatically) — Team Manager mode reads his live ESPN roster, so it needs to be accurate there afterward.
 
 ## Role: Team Manager

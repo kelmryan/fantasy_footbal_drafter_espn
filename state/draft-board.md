@@ -57,7 +57,7 @@ _Claude: append picks here as Kelly reports them during the draft. Keep it simpl
 | 31 | Matt | Malik Nabers | WR |
 | 32 | Kevin | A.J. Brown | WR |
 | 33 | Larry | Cam Skattebo | RB |
-| 34 | Adam | Ryan Williams | WR |
+| 34 | Adam | Kyren Williams | RB |
 | 35 | Chuck | Zay Flowers | WR |
 | 36 | Dave | Chris Olave | WR |
 | 37 | Lee | Ladd McConkey | WR |
@@ -95,12 +95,90 @@ _Claude: append picks here as Kelly reports them during the draft. Keep it simpl
 | 69 | John | Kyle Pitts | TE |
 | 70 | Brew | Luther Burden III | WR |
 | 71 | Brew | Jaylen Warren | RB |
+| 72 | John | Jaxson Dart | QB |
+| 73 | Mike | Mike Evans | WR |
+| 74 | Andy | Courtland Sutton | WR |
+| 75 | Graham | Carnell Tate | WR |
+| 76 | Lee | Justin Herbert | QB |
+| 77 | Dave | Parker Washington | WR |
+| 78 | Chuck | Isaiah Likely | TE |
+| 79 | Adam | Tony Pollard | RB |
+| 80 | Larry | Dak Prescott | QB |
+| 81 | Kevin | Dallas Goedert | TE |
+| 82 | Matt | Bo Nix | QB |
+| 83 | Joey | Harold Fannin Jr. | TE |
+| 84 | SlickDaddy Club (Kelly) | Stefon Diggs | WR |
+| 85 | SlickDaddy Club (Kelly) | Jordan Addison | WR |
+| 86 | Joey | Alec Pierce | WR |
+| 87 | Matt | George Kittle | TE |
+| 88 | Kevin | Rico Dowdle | RB |
+| 89 | Larry | Travis Kelce | TE |
+| 90 | Adam | Christian Watson | WR |
+| 91 | Chuck | Jake Ferguson | TE |
+| 92 | Dave | Caleb Williams | QB |
+| 93 | Lee | Wan'Dale Robinson | WR |
+| 94 | Graham | Matthew Golden | WR |
+| 95 | Andy | Texans D/ST | D/ST |
+| 96 | Mike | Matthew Stafford | QB |
+| 97 | John | Mark Andrews | TE |
+| 98 | Brew | RJ Harvey | RB |
+| 99 | Brew | Patrick Mahomes | QB |
+| 100 | John | J.K. Dobbins | RB |
+| 101 | Mike | Dalton Kincaid | TE |
+| 102 | Andy | Kenny Gainwell | RB |
+| 103 | Graham | Jonathon Brooks | RB |
+| 104 | Lee | Jacory Croskey-Merritt | RB |
+| 105 | Dave | Jordan Mason | RB |
+| 106 | Chuck | Chris Godwin Jr. | WR |
+| 107 | Adam | Blake Corum | RB |
+| 108 | Larry | Michael Wilson | WR |
+| 109 | Kevin | Broncos D/ST | D/ST |
+| 110 | Matt | Rachaad White | RB |
+| 111 | Joey | Steelers D/ST | D/ST |
+| 112 | SlickDaddy Club (Kelly) | Tyjae Spears | RB |
+| 113 | SlickDaddy Club (Kelly) | Chuba Hubbard | RB |
+| 114 | Joey | Kyle Monangai | RB |
+| 115 | Matt | Trevor Lawrence | QB |
+| 116 | Kevin | Jordan James | RB |
+| 117 | Larry | Rams D/ST | D/ST |
+| 118 | Adam | Zach Charbonnet | RB |
+| 119 | Chuck | Woody Marks | RB |
+| 120 | Dave | Aaron Jones Sr. | RB |
+| 121 | Lee | Alvin Kamara | RB |
+| 122 | Graham | Brian Thomas Jr. | WR |
+| 123 | Andy | T.J. Hockenson | TE |
+| 124 | Mike | Tyler Allgeier | RB |
+| 125 | John | Jakobi Meyers | WR |
+| 126 | Brew | Ravens D/ST | D/ST |
+| 127 | Brew | Brock Purdy | QB |
+| 128 | John | Brandon Aubrey | K |
+| 129 | Mike | Seahawks D/ST | D/ST |
+| 130 | Andy | Brian Robinson Jr. | RB |
+| 131 | Graham | Kenyon Sadiq | TE |
+| 132 | Lee | Juwan Johnson | TE |
+| 133 | Dave | Brenton Strange | TE |
+| 134 | Chuck | Eagles D/ST | D/ST |
+| 135 | Adam | Jayden Reed | WR |
+| 136 | Larry | Tyrone Tracy Jr. | RB |
+| 137 | Kevin | Chris Boswell | K |
+| 138 | Matt | Josh Downs | WR |
+| 139 | Joey | Deebo Samuel | WR |
+| 140 | SlickDaddy Club (Kelly) | Anthony Richardson | QB |
+| 141 | SlickDaddy Club (Kelly) | Quentin Johnston | WR |
+| 142 | Joey | Ka'imi Fairbairn | K |
+| 143 | Matt | Jaylin Lane | WR |
+| 144 | Kevin | Jalen Coker | WR |
+| 145 | Larry | Hunter Henry | TE |
+| 146 | Adam | Xavier Worthy | WR |
+| 147 | Chuck | Baker Mayfield | QB |
+| 148 | Dave | MarShawn Lloyd | RB |
+| 149 | Lee | Jason Myers | K |
 
 ## Kelly's roster so far (SlickDaddy Club)
 
 | Slot | Player |
 |------|--------|
-| QB | |
+| QB | Anthony Richardson |
 | RB | Bijan Robinson |
 | RB | Javonte Williams |
 | WR | Rashee Rice |
@@ -109,10 +187,10 @@ _Claude: append picks here as Kelly reports them during the draft. Keep it simpl
 | FLEX | |
 | D/ST | |
 | K | |
-| BE | |
-| BE | |
-| BE | |
-| BE | |
-| BE | |
+| BE | Stefon Diggs |
+| BE | Jordan Addison |
+| BE | Tyjae Spears |
+| BE | Chuba Hubbard |
+| BE | Quentin Johnston |
 | BE | |
 | BE | |
