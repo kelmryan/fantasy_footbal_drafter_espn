@@ -63,7 +63,7 @@ Compares waiver-wire players against a specific roster player and recommends add
 - `state/draft-board.md` — running log of every pick during the draft, plus Kelly's roster-in-progress. Create it from scratch (simple markdown table or list) the first time it's needed.
 - `state/draft-forecasted.md` — optional pre-planned target list for upcoming picks. When a forecasted player gets drafted by someone else, trigger a prompt to refresh the forecast for that position.
 - `state/roster-notes.md` — current roster, FAAB balance remaining, and any standing notes (injured bench stashes, handcuffs being monitored). Update it whenever something changes so it stays useful across sessions, since you don't have memory between separate Claude Code invocations the way a single long chat does.
-- `state/news/[position]-intel.md` — cached player news/intel by position (rb-intel.md, wr-intel.md, te-intel.md, qb-intel.md). Subagents check these first before doing external lookups.
+- `state/news/[position]-intel.md` — cached player news/intel by position (rb-intel.md, wr-intel.md, te-intel.md, qb-intel.md, dst-intel.md). Subagents check these first before doing external lookups.
 - `state/research/` — **pre-written strategy documents** for draft and roster decisions. Agents should reference these files BEFORE making recommendations to ensure consistent, token-efficient decisions. See `state/research/README.md` for full index.
 
 Keep all files short and current rather than a full history — they're working memory, not a season journal.

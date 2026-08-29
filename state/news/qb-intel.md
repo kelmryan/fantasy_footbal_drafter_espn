@@ -1,6 +1,6 @@
 # QB Intel - 2026 Draft
 
-_Last updated: August 27, 2026_
+_Last updated: August 29, 2026_
 
 **LEAGUE NOTE:** 4-pt passing TD (not 6) devalues QB - wait on QB, don't draft early rounds
 
@@ -29,11 +29,16 @@ _Last updated: August 27, 2026_
 - **News:** Year 4, production declined each year; QB20-26 finishes last two seasons (13-15 PPG); NOT worth pick 44
 
 ## Jared Goff - DET
-- **Bye Week:** 6 ⚠️ (CONFLICTS with Achane)
-- **Status:** Healthy
+- **Bye Week:** 6 ⚠️ (CONFLICTS with Achane and Kyler Murray if Kelly rosters both)
+- **Status:** Healthy; sitting out ALL 2026 preseason games by design (Dan Campbell protecting the veteran, not a competition signal)
 - **2025:** QB9 (4,564 yards, 34 TDs, 8 INTs)
-- **Fantasy Rank:** QB16 (ADP varies)
-- **News:** Zero rushing production (worst in league); solid late-QB1/early-QB2 but don't draft QBs this early in 4-pt passing TD league
+- **VERIFIED Aug 29, 2026 (fresh search):** CONFIRMED Lions starting QB1 for 2026, Josh Dobbs signed as clear-cut backup. Zero rushing production but high-volume, low-INT pocket passer. **Tier B** per qb-value-tiers.md. Source: Yahoo Sports, CBS Sports, Bolavip (Aug 2026).
+- **News:** Solid floor, no rushing upside — the exact archetype this league's 4-pt passing TD scoring discounts hardest.
+
+## Daniel Jones - IND
+- **Bye Week:** 13
+- **Status:** Recovering from late-2025 Achilles injury but "camp is pointing to a big 2026"; held out of preseason games as a precaution, not a competition signal
+- **VERIFIED Aug 29, 2026 (fresh search):** CONFIRMED unquestioned QB1 — Shane Steichen named Jones the starter outright, with Anthony Richardson and Riley Leonard fighting for the backup job behind him (this is why Kelly's Richardson pick has no standalone value). Real rushing floor (44 yds/gm pace in his best Giants season) gives him **Tier A** per qb-value-tiers.md, though Colts' run-heavy scheme (Jonathan Taylor) may cap passing volume some. Sources: Colts.com, ESPN, Yahoo Sports (Aug 2026).
 
 ## Josh Allen - BUF
 - **Bye Week:** TBD
@@ -47,6 +52,13 @@ _Last updated: August 27, 2026_
 - **Status:** Healthy
 - **2026 Rank:** QB tier 2-3
 - **News:** Too many questions about Packers offense (Josh Jacobs status, WR/OL depth) to invest significant capital; mid-tier QB1
+- **VERIFIED Aug 29, 2026 (fresh search):** CONFIRMED Week 1 starter, entering 4th year as Packers QB1, played in preseason opener Aug 13. Zero rushing floor — pure pocket passer. **Tier B** per qb-value-tiers.md (locked starter, high volume, near-zero rushing). Not in this league's drafted-16 list as of Kelly's last update — plausible late-round value if it holds. Source: Packers.com, FOX Sports Radio (Aug 11-13, 2026).
+
+## Kyler Murray - MIN (traded/signed from ARI)
+- **VERIFIED Aug 29, 2026 (fresh search):** Vikings named Murray the CONFIRMED 2026 Week 1 starter on Aug 11, 2026, beating out J.J. McCarthy in a camp competition. Signed a one-year deal with Minnesota after 7 years in Arizona; missed most of 2025 with a foot injury (5 games played) but has a real dual-threat rushing profile and joins one of the league's more efficient offenses under Kevin O'Connell. **Tier A** per qb-value-tiers.md (confirmed starter, real rushing floor) — exceptional value if he's still on the board this late, since this news is recent enough some league-mates may not have priced it in yet. Not in this league's drafted-16 list. Injury history (foot) is the real risk. Sources: Vikings.com, NFL.com, Star Tribune (Aug 11, 2026).
+
+## Baker Mayfield - TB
+- **VERIFIED Aug 29, 2026 (fresh search):** CONFIRMED "unquestioned starter" for Tampa Bay entering 2026, per Buccaneers.com and CBS Sports (Jul-Aug 2026 camp coverage). Contract extension talks stalled (playing on final year, pending 2027 free agency) but no impact on 2026 starting job — full confidence he plays out the season as QB1. Has scrambling ability (moderate rushing floor, not elite). **Tier B, borderline A** per qb-value-tiers.md. Not in this league's drafted-16 list. Sources: Buccaneers.com, CBS Sports, Pro Football Rumors (Jul-Aug 2026).
 
 ## Lamar Jackson - BAL
 - **Bye Week:** TBD

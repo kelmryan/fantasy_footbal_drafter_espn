@@ -126,11 +126,52 @@ _Last updated: August 27, 2026_
 - **News:** One of best No. 2 WRs for fantasy; 21 TDs past two seasons
 
 ## Calvin Ridley - TEN
+- **Bye Week:** 9
+- **Status:** Healthy, coming off an injury-shortened 2025
+- **2026 Rank:** Fallen further than age-decline framing suggested — now likely TEN's #3 target behind Wan'Dale Robinson (slot) and rookie Carnell Tate (downfield)
+- **News:** Cam Ward's rookie-year inefficiency (5.9 YPA, worst among qualifiers) compounds the risk. Analysts now say don't draft before the final rounds. Deep-bench dart only.
+
+## Tre Tucker - LV
+- **Bye Week:** 13
+- **Status:** Healthy
+- **2026 Rank:** ~WR48; leads Raiders WRs in projected target share (~15%, behind only TE Brock Bowers)
+- **News:** Led the team with 90 targets/696 yards in 2025, improved every season. Rookie QB Fernando Mendoza's play is the swing factor, but he's the clearest volume play left on the board.
+
+## Jerry Jeudy - CLE
+- **Bye Week:** 11
+- **Status:** Healthy
+- **2026 Rank:** WR52 finish in 2025 (50/602/2), depressed 2026 ADP
+- **News:** Real target volume in a bad offense; Browns added rookie competition (KC Concepcion, Denzel Boston), and Dillon Gabriel's efficiency caps the ceiling. Cheap value bet, not a lock.
+
+## Romeo Doubs - NE
+- **Bye Week:** 11
+- **Status:** Healthy
+- **2026 Rank:** ~WR54-55; signed 4yr/$80M with New England, moving to a big slot role
+- **News:** Coming off 55/724/6 with GB — the slot shift should mean easier underneath targets and a weekly PPR floor if he builds rapport with Drake Maye. Best offensive-context upgrade in this tier.
+
+## Rashod Bateman - BAL
+- **Bye Week:** 13
+- **Status:** Healthy
+- **2026 Rank:** ~WR66-70; listed as a starter alongside Zay Flowers
+- **News:** OC has moved him into the slot more, but faces fresh rookie competition and Baltimore may lean more on Flowers/the run game. Solid bye-week fill, capped ceiling.
+
+## Jalen McMillan - TB
+- **Bye Week:** 10
+- **Status:** Healthy now (missed 2+ weeks of camp with a knee injury, returned as full participant)
+- **2026 Rank:** ~WR61; No. 3 in three-WR sets behind Egbuka and Chris Godwin Jr.
+- **News:** With Mike Evans gone, real WR3 upside — a Godwin or Egbuka injury would immediately elevate him to weekly flex relevance.
+
+## Marquise Brown (Hollywood Brown) - PHI
+- **Bye Week:** 10
+- **Status:** Healthy
+- **2026 Rank:** ~WR75; signed with Eagles, projected No. 3 WR behind DeVonta Smith and rookie Makai Lemon
+- **News:** Low floor (under 9.6 PPR pts/game for 3 straight years), but Jalen Hurts' offense gives streaming upside as a late-round dart.
+
+## Jauan Jennings - MIN
 - **Bye Week:** TBD
 - **Status:** Healthy
-- **2026 Rank:** WR52-WR62
-- **Age:** 31 (entering age-31 season)
-- **News:** Carries greatest risk of dramatic target decline; late-career fade likely
+- **2026 Rank:** ~WR71; signed 1yr/$13M with Vikings after a strong 2024 (49ers' #1 WR role)
+- **News:** Buried behind Jefferson, Addison, and Hockenson for targets — only fantasy-relevant if Jefferson or Addison misses time. Speculative add.
 
 ## Keenan Allen - IND
 - **Bye Week:** TBD

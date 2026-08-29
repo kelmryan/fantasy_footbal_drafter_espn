@@ -61,16 +61,28 @@ _Last updated: August 27, 2026_
 - **News:** Career-high 2.5 yards per route run but only ran 51% of team routes; limited volume
 
 ## David Njoku - LAC
-- **Bye Week:** TBD
-- **Status:** Injury-prone
-- **2026 Rank:** TE28
-- **News:** Now with Chargers; injury concerns persist; streaming option at best
+- **Bye Week:** 7
+- **Status:** Healthy after 2025 knee injury; new team
+- **2026 Rank:** TE28, deep-league/matchup streamer
+- **News:** Signed 1-year deal with LAC but lands behind 2025 rookie Oronde Gadsden II in the target hierarchy; strong career red-zone share (20-33% end-zone targets) gives spike-week TD equity, but overall volume caps him as a streamer.
 
 ## Pat Freiermuth - PIT
-- **Bye Week:** TBD
+- **Bye Week:** 9
+- **Status:** Healthy, leading camp reps
+- **2026 Rank:** TE23-24, trending up
+- **News:** With Jonnu Smith released, Steelers' 155 team TE targets redistribute mostly between Freiermuth and Darnell Washington — led the position group in preseason practice reps, profiles as Rodgers' third-down security blanket, pushing toward 60-70 targets.
+
+## Dalton Schultz - HOU
+- **Bye Week:** 8
 - **Status:** Healthy
-- **2026 Rank:** TE23-TE24
-- **News:** Solid but unspectacular; mid-tier streaming option
+- **2026 Rank:** TE23; entrenched as Texans' primary receiving TE
+- **News:** Posted 82/777/3 on 106 targets in 2025 (3rd among TEs in catches), ~97-target pace over 3 years in Houston. Target competition from rookie Max Klare and Foster Moreau is real, but he's the most proven target-earner in this tier.
+
+## Cade Otton - TB
+- **Bye Week:** 10
+- **Status:** Battling an undisclosed camp injury (day-to-day) — verify closer to Week 1
+- **2026 Rank:** High-end TE3/streamer, TD-dependent ceiling
+- **News:** Fresh 3yr/$30M extension after a career-high 59/81 targets in 2025; with Mike Evans now in San Francisco, Otton is set up for a larger red-zone/possession role.
 
 ## Cole Kmet - CHI
 - **Bye Week:** TBD

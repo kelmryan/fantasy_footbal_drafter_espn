@@ -127,10 +127,10 @@ _Last updated: August 29, 2026_
 - **Role:** Most talented back on Commanders roster; serviceable FLEX with RB2 upside
 
 ## Isiah Pacheco - DET
-- **Bye Week:** TBD
-- **Status:** Healthy
-- **2026 Rank:** RB50; significant drop from previous seasons
-- **News:** No longer with KC; moved to Detroit in committee role
+- **Bye Week:** 6
+- **Status:** Healthy; signed 1yr/$1.81M with Lions after KC exit
+- **2026 Rank/Role:** Backup to Jahmyr Gibbs; short-yardage/power-back role
+- **News:** Two-time Super Bowl champ; won't lead touches but could vulture goal-line work behind Gibbs; standalone value only if Gibbs misses time
 
 ## Jaylen Warren - PIT
 - **Bye Week:** TBD
@@ -252,6 +252,36 @@ _Last updated: August 29, 2026_
 - **Status:** Healthy
 - **2026 Rank:** RB22 — presumed leader of Jacksonville's new backfield, some role uncertainty
 - **News:** Already off Kelly's board, cached for reference only.
+
+## Tank Bigsby - PHI
+- **Bye Week:** 10
+- **Status:** Healthy (minor toe issue in camp, resolved)
+- **2026 Rank/Role:** RB2 behind Saquon Barkley; ADP ~159 overall (14.04)
+- **News:** One of the best pure handcuffs in the league — ranked top-5 in explosive run rate, missed-tackle rate, and YAC/attempt among qualifying backs in 2025. Direct Saquon insurance; grab as bench lottery ticket with real standalone talent.
+
+## Justice Hill - BAL
+- **Bye Week:** 13
+- **Status:** Healthy
+- **2026 Rank/Role:** RB49 (ESPN); passing-down complement to Derrick Henry
+- **News:** Third-down/receiving role gives him a PPR floor even in a run-heavy Baltimore offense; ceiling capped by Henry's early-down/goal-line workload.
+
+## Dylan Sampson - CLE
+- **Bye Week:** 11
+- **Status:** Rookie, healthy
+- **2026 Rank/Role:** RB53 (ESPN); competing with Jerome Ford in a muddled Browns backfield
+- **News:** Well-regarded rookie ball-carrier; path to lead role exists if he wins the committee outright, but Cleveland's backfield split keeps him a speculative bench stash for now.
+
+## Keaton Mitchell - LAC
+- **Bye Week:** 7
+- **Status:** Healthy (injury-prone history — missed most of 2023-24 with knee/other issues)
+- **2026 Rank/Role:** Handcuff to Omarion Hampton; currently ahead of Kimani Vidal on the depth chart
+- **News:** Explosive big-play juice when healthy; late-round lottery ticket behind Hampton, but Vidal (better 2025 tape when Hampton was out) remains a real threat to reclaim the RB2 job — monitor camp reps.
+
+## James Conner - ARI
+- **Bye Week:** 14
+- **Status:** RED FLAG — recovering from 2025 season-ending ankle injury; still on individual drills only as of late Aug, not yet in full team (11-on-11) work
+- **2026 Rank/Role:** Nominal RB1 in a crowded Arizona backfield (Jeremiyah Love, Tyler Allgeier, Trey Benson also on roster) after reworking his contract to stay
+- **News:** Pro Bowl pedigree and reworked deal signal the team still wants him involved, but reports say he "doesn't appear to have a path to steady volume" with Love and Allgeier also carving out touches — boom/bust bench dart, not a plug-and-play starter. Trade rumors persist.
 
 ## Jonathon Brooks - CAR
 - **Bye Week:** TBD

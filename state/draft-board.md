@@ -173,6 +173,19 @@ _Claude: append picks here as Kelly reports them during the draft. Keep it simpl
 | 147 | Chuck | Baker Mayfield | QB |
 | 148 | Dave | MarShawn Lloyd | RB |
 | 149 | Lee | Jason Myers | K |
+| 150 | Graham | Khalil Shakir | WR |
+| 151 | Andy | Cameron Dicker | K |
+| 152 | Mike | Terrance Ferguson | TE |
+| 153 | John | Browns D/ST | D/ST |
+| 154 | Brew | Rashid Shaheed | WR |
+| 155 | Brew | Makai Lemon | WR |
+| 156 | John | Antonio Gates | TE |
+| 157 | Mike | Jalen McMillan | WR |
+| 158 | Andy | Cooper Kupp | WR |
+| 159 | Graham | Chris Rodriguez Jr. | RB |
+| 160 | Lee | Romeo Doubs | WR |
+| 161 | Dave | KC Concepcion | WR |
+| 162 | Chuck | Justice Hill | RB |
 
 ## Kelly's roster so far (SlickDaddy Club)
 
