@@ -12,6 +12,11 @@ QUEUE_FILE="/tmp/ff-research-queue.txt"
 LAST_PICK_COUNT=0
 CHECK_INTERVAL=5
 
+# Snake draft position tracking (click clack league: 14 teams, Kelly is slot 1)
+TEAMS=14
+SLOT=1
+LAST_ALERTED_PICK=0
+
 echo "🏈 Queue-based research monitor started"
 echo "📋 Watching: $DRAFT_FILE"
 echo "📁 News cache: $NEWS_DIR"
@@ -21,6 +26,25 @@ echo ""
 echo "When you see players queued, run in Claude Code:"
 echo "  process research queue"
 echo ""
+
+# Compute the next pick number belonging to Kelly (slot $SLOT of $TEAMS, snake order)
+next_kelly_pick() {
+    local current="$1"
+    local r=1
+    local pick
+    while true; do
+        if (( r % 2 == 1 )); then
+            pick=$(( (r - 1) * TEAMS + SLOT ))
+        else
+            pick=$(( r * TEAMS - SLOT + 1 ))
+        fi
+        if (( pick > current )); then
+            echo "$pick"
+            return
+        fi
+        r=$((r + 1))
+    done
+}
 
 # Initialize queue
 > "$QUEUE_FILE"
@@ -82,6 +106,18 @@ while true; do
         fi
 
         LAST_PICK_COUNT=$CURRENT_PICKS
+    fi
+
+    NEXT_PICK=$(next_kelly_pick "$CURRENT_PICKS")
+    PICKS_AWAY=$(( NEXT_PICK - CURRENT_PICKS ))
+
+    if [ "$PICKS_AWAY" -le 4 ] && [ "$NEXT_PICK" != "$LAST_ALERTED_PICK" ]; then
+        echo ""
+        echo "⚠️  $PICKS_AWAY pick(s) until your turn (pick $NEXT_PICK)!"
+        echo "   Ask Claude Code to check for fallers: any player better than the current"
+        echo "   top-5 forecast who's still on the board and worth researching."
+        echo ""
+        LAST_ALERTED_PICK=$NEXT_PICK
     fi
 
     sleep $CHECK_INTERVAL

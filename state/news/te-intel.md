@@ -2,6 +2,12 @@
 
 _Last updated: August 27, 2026_
 
+## Tyler Warren - IND (DRAFTED pick 46, gone)
+- **Bye Week:** TBD
+- **Status:** Healthy
+- **2026 Rank:** TE4 consensus, Round 6 ADP — outkicked his draft slot value at pick 46
+- **News:** Rookie standout; already off Kelly's board, cached for reference only.
+
 ## Travis Kelce - KC
 - **Bye Week:** 5
 - **Status:** Fully healthy; reps managed due to age (normal veteran rest)

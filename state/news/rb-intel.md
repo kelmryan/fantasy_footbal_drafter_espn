@@ -1,6 +1,6 @@
 # RB Intel - 2026 Draft
 
-_Last updated: August 27, 2026_
+_Last updated: August 29, 2026_
 
 ## Bijan Robinson - ATL ⭐ CONSENSUS 1.01
 - **Bye Week:** 11
@@ -36,7 +36,7 @@ _Last updated: August 27, 2026_
 - **Contract:** 4yr/$68M extension (May 2026)
 - **News:** Unquestioned No. 1 back; Pro Bowl RB in 2025
 
-## James Cook - BUF
+## James Cook III - BUF
 - **Bye Week:** 7
 - **Status:** Fully healthy, no injuries
 - **News:** Led NFL in rushing yards 2025; HC may reduce workload (age 26); could see backup Ray Davis get touches
@@ -215,6 +215,43 @@ _Last updated: August 27, 2026_
 - **Status:** Unknown
 - **2026 Rank:** Not in top-80 RBs
 - **News:** Veteran depth/practice squad; no fantasy relevance; avoid
+
+## Ashton Jeanty - LV
+- **Bye Week:** TBD
+- **Status:** Healthy
+- **2025 Stats (rookie):** 975 rush yards, 5 TD, 3.7 YPC (disappointing efficiency), 55 rec/346 yds/5 TD — RB15 overall in fantasy points
+- **News:** New HC Klint Kubiak brings a wide-zone scheme suited to Jeanty's one-cut running style; staff has signaled a heavy workload and bigger passing-game role in 2026. Polarizing 2026 ADP (6th RB off the board) — bet on scheme/role improvement over shaky rookie efficiency.
+
+## Jeremiah Love (Jeremiyah Love) - ARI
+- **Bye Week:** TBD
+- **Status:** Rookie, healthy
+- **Draft Capital:** 1st round, 3rd overall pick, 2026 NFL Draft (Notre Dame, Heisman finalist)
+- **College Stats:** 199 att/1,372 yds/18 TD, 27 rec/280 yds/3 TD (junior year)
+- **News:** True three-down back profile; expected to command early-down, goal-line, and receiving work for ARI. First rookie RB off the board in 2026 fantasy drafts (ADP ~23-25). Upside is high but touch-share risk exists if Arizona splits carries — Kelly's board has him going pick 17, ahead of his ADP, so treat as a reach unless the raw talent is the priority.
+
+## Chase Brown - CIN
+- **Bye Week:** TBD
+- **Status:** Healthy
+- **2025 Stats:** 232 att/1,019 yds, 69 rec/437 yds, 11 total TD; RB1-caliber pace over final 10 weeks (15.9-16.6 PPG)
+- **News:** True three-down role (14.5% target share, 7th among RBs) in a Joe Burrow offense with Chase/Higgins drawing coverage away. Consensus RB9-11, firm 2nd-round value — legit RB1 upside if the offense stays healthy.
+
+## Omarion Hampton - LAC
+- **Bye Week:** TBD
+- **Status:** Healthy
+- **2025 Stats (rookie):** RB16 in PPG (13.3), double-digit fantasy points in 6 of last 7 games
+- **News:** First-round pedigree, ideal size/speed (4.46 at 221 lbs), new HC McDaniel has a history of funneling RB targets (top-7 RB target share 3 straight years). Risk: committee concerns with Mitchell (passing downs) and Vidal cutting into his snap share — market price may be ahead of his actual role security.
+
+## Quinshon Judkins - CLE (DRAFTED pick 45, gone)
+- **Bye Week:** TBD
+- **Status:** Healthy
+- **2026 Rank:** RB19 — middle-round value pocket, useful standalone role with path to more work
+- **News:** Already off Kelly's board, cached for reference only.
+
+## Bhayshul Tuten - JAX (DRAFTED pick 48, gone)
+- **Bye Week:** TBD
+- **Status:** Healthy
+- **2026 Rank:** RB22 — presumed leader of Jacksonville's new backfield, some role uncertainty
+- **News:** Already off Kelly's board, cached for reference only.
 
 ## Jonathon Brooks - CAR
 - **Bye Week:** TBD

@@ -4,6 +4,11 @@ _Last updated: August 27, 2026_
 
 **LEAGUE NOTE:** 4-pt passing TD (not 6) devalues QB - wait on QB, don't draft early rounds
 
+## Joe Burrow - CIN (DRAFTED pick 50, gone)
+- **Bye Week:** TBD
+- **Status:** Healthy entering 2026; missed 9 games in 2025 on IR (toe injury), has now missed 6+ games in 3 of 6 pro seasons
+- **News:** Averaged 24.8 PPG over his last 6 games back from injury in 2025 — top-3 QB upside if he stays on the field, but durability is the real risk. Two stud WRs to lean on (Chase, Higgins) but rushing production is minimal, so he needs elite passing volume. Already off Kelly's board, cached for reference only.
+
 ## Patrick Mahomes - KC
 - **Bye Week:** 5 ✅
 - **Status:** Recovering from torn ACL/LCL (missed final 3 games of 2025)

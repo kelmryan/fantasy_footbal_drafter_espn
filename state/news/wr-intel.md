@@ -8,6 +8,18 @@ _Last updated: August 27, 2026_
 - **2025 Stats:** 75/1,077/3 on 117 targets in 14 games (career-low TDs, led all WRs with 8 drops)
 - **News:** ~25% target share expected; unlucky TD variance (3 actual vs 6.6 expected); NOT worth 1.01
 
+## Tetairoa McMillan - CAR
+- **Bye Week:** TBD
+- **Status:** Healthy, entering Year 2
+- **2025 Stats (rookie):** 70/1,014/7 on 126 targets (~26% target share) — clear #1 target, roughly 2x any other Panther
+- **News:** OC Brad Idzik takes over full-time play-calling; plan to move McMillan into the slot more, raising his route/target floor further. Real ADP ~pick 36 — any fall past that is a genuine value slide, not a red flag. Ranked above Tee Higgins for picks 56-57 if still available.
+
+## Emeka Egbuka - TB (DRAFTED pick 47, gone)
+- **Bye Week:** TBD
+- **Status:** Healthy
+- **2026 Rank:** WR19, Round 5 ADP — quality mid-tier receiver
+- **News:** Already off Kelly's board, cached for reference only.
+
 ## Tyreek Hill - MIA ❌ AVOID
 - **Bye Week:** N/A (unsigned free agent)
 - **Status:** CATASTROPHIC - Tore ACL + multiple ligaments Week 4 2025; released by Dolphins Feb 2026
