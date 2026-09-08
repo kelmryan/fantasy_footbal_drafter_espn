@@ -1,23 +1,23 @@
 #!/bin/bash
 
-# Queue-based research monitor
-# Monitors picks, checks cache, writes missing players to a queue file
-# You manually trigger research when ready
+# Queue-based research + falling-player monitor, adapted from the ESPN league's
+# scripts/queue-research.sh for darrell n's Superb League (Yahoo, 16-team snake).
 #
 # Usage: ./scripts/queue-research.sh [draft-file]
+# Run from yahoo-guillotine-league/ (paths below are relative to that folder).
 
-DRAFT_FILE="${1:-state/mock-draft.md}"
+DRAFT_FILE="${1:-state/draft-board.md}"
 NEWS_DIR="state/news"
-QUEUE_FILE="/tmp/ff-research-queue.txt"
+QUEUE_FILE="/tmp/yahoo-ff-research-queue.txt"
 LAST_PICK_COUNT=0
 CHECK_INTERVAL=5
 
-# Snake draft position tracking (click clack league: 14 teams, Kelly is slot 1)
-TEAMS=14
-SLOT=1
+# Snake draft position tracking (darrell n's Superb League: 16 teams, Kelly is slot 5)
+TEAMS=16
+SLOT=5
 LAST_ALERTED_PICK=0
 
-echo "🏈 Queue-based research monitor started"
+echo "🏈 Yahoo league queue-based research monitor started"
 echo "📋 Watching: $DRAFT_FILE"
 echo "📁 News cache: $NEWS_DIR"
 echo "📝 Queue file: $QUEUE_FILE"
@@ -115,7 +115,7 @@ while true; do
         echo ""
         echo "⚠️  $PICKS_AWAY pick(s) until your turn (pick $NEXT_PICK)!"
         echo "   Ask Claude Code to check for fallers: any player better than the current"
-        echo "   top-5 forecast who's still on the board and worth researching."
+        echo "   top-5 forecast (state/draft-forecasted.md) who's still on the board."
         echo ""
         LAST_ALERTED_PICK=$NEXT_PICK
     fi
