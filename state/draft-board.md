@@ -186,24 +186,86 @@ _Claude: append picks here as Kelly reports them during the draft. Keep it simpl
 | 160 | Lee | Romeo Doubs | WR |
 | 161 | Dave | KC Concepcion | WR |
 | 162 | Chuck | Justice Hill | RB |
+| 163 | Adam | Kyler Murray | QB |
+| 164 | Larry | Jared Goff | QB |
+| 165 | Kevin | Chigoziem Okonkwo | TE |
+| 166 | Matt | Harrison Butker | K |
+| 167 | Joey | Pat Freiermuth | TE |
+| 168 | SlickDaddy Club (Kelly) | Daniel Jones | QB |
+| 169 | SlickDaddy Club (Kelly) | Vikings D/ST | D/ST |
+| 170 | Joey | Tyler Shough | QB |
+| 171 | Matt | Greg Dulcich | TE |
+| 172 | Kevin | Jake Bates | K |
+| 173 | Larry | Jonah Coleman | RB |
+| 174 | Adam | Harrison Mevis | K |
+| 175 | Chuck | Eddy Pineiro | K |
+| 176 | Dave | Brandon Aiyuk | WR |
+| 177 | Lee | Patriots D/ST | D/ST |
+| 178 | Graham | Tank Bigsby | RB |
+| 179 | Andy | Keaton Mitchell | RB |
+| 180 | Mike | Aaron Rodgers | QB |
+| 181 | John | Isiah Pacheco | RB |
+| 182 | Brew | Chargers D/ST | D/ST |
+| 183 | Brew | Cade Otton | TE |
+| 184 | John | Josh Palmer | WR |
+| 185 | Mike | Cam Little | K |
+| 186 | Andy | Tyreek Hill | WR |
+| 187 | Graham | Fernando Mendoza | QB |
+| 188 | Lee | Sam Darnold | QB |
+| 189 | Dave | Pat Bryant | WR |
+| 190 | Chuck | Tyson Bagent | QB |
+| 191 | Adam | Mike Washington Jr. | RB |
+| 192 | Larry | Malik Washington | WR |
+| 193 | Kevin | Cam Ward | QB |
+| 194 | Matt | Najee Harris | RB |
+| 195 | Joey | Tank Dell | WR |
+| 196 | SlickDaddy Club (Kelly) | Tre Tucker | WR |
+| 197 | SlickDaddy Club (Kelly) | Dalton Schultz | TE |
+| 198 | Joey | Ray Davis | RB |
+| 199 | Matt | Deshaun Watson | QB |
+| 200 | Kevin | DeMond Claiborne | RB |
+| 201 | Larry | Kimani Vidal | RB |
+| 202 | Adam | Lions D/ST | D/ST |
+| 203 | Chuck | Oronde Gadsden II | TE |
+| 204 | Dave | Packers D/ST | D/ST |
+| 205 | Lee | Emmett Johnson | RB |
+| 206 | Graham | Chiefs D/ST | D/ST |
+| 207 | Andy | Braelon Allen | RB |
+| 208 | Mike | Jerry Jeudy | WR |
+| 209 | John | Jets D/ST | D/ST |
+| 210 | Brew | Evan McPherson | K |
+| 211 | Brew | Giants D/ST | D/ST |
+| 212 | John | Matt Gay | K |
+| 213 | Mike | James Conner | RB |
+| 214 | Andy | Malik Willis | QB |
+| 215 | Graham | Tyler Loop | K |
+| 216 | Lee | Jahan Dotson | WR |
+| 217 | Dave | Keenan Allen | WR |
+| 218 | Chuck | Gunnar Helm | TE |
+| 219 | Adam | Ricky Pearsall | WR |
+| 220 | Larry | Dyami Brown | WR |
+| 221 | Kevin | (not tracked - skipped per Kelly) | ? |
+| 222 | Matt | Bills D/ST | D/ST |
+| 223 | Joey | (not tracked - skipped per Kelly) | ? |
+| 224 | SlickDaddy Club (Kelly) | Jose Borregales | K |
 
 ## Kelly's roster so far (SlickDaddy Club)
 
 | Slot | Player |
 |------|--------|
-| QB | Anthony Richardson |
+| QB | Daniel Jones |
 | RB | Bijan Robinson |
 | RB | Javonte Williams |
 | WR | Rashee Rice |
 | WR | DK Metcalf |
 | TE | Sam LaPorta |
-| FLEX | |
-| D/ST | |
-| K | |
+| FLEX | Chuba Hubbard |
+| D/ST | Vikings D/ST |
+| K | Jose Borregales |
 | BE | Stefon Diggs |
 | BE | Jordan Addison |
 | BE | Tyjae Spears |
-| BE | Chuba Hubbard |
 | BE | Quentin Johnston |
-| BE | |
-| BE | |
+| BE | Anthony Richardson |
+| BE | Tre Tucker |
+| BE | Dalton Schultz |

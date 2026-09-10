@@ -16,7 +16,9 @@ This project turns Claude Code into Kelly's fantasy football command center for 
 
 ## The subagents you have
 
-Six focused specialists live in `.claude/agents/`, each with their own isolated context: `rb-expert`, `wr-expert`, `te-expert`, `qb-expert`, `dst-expert`, `schedule-manager`. Dispatch to them with the Task tool whenever you need a position judged or current-week schedule/injury/matchup facts — don't freelance those evaluations yourself, and don't let a position expert guess at current-week data it wasn't given.
+Seven focused specialists live in `.claude/agents/`, each with their own isolated context: `rb-expert`, `wr-expert`, `te-expert`, `qb-expert`, `dst-expert`, `schedule-manager`, `overall-expert`. Dispatch to them with the Task tool whenever you need a position judged or current-week schedule/injury/matchup facts — don't freelance those evaluations yourself, and don't let a position expert guess at current-week data it wasn't given.
+
+**Building or refreshing a cross-positional top-10/big-board list**: dispatch `overall-expert` rather than manually dispatching each position expert and hand-merging the results yourself. It dispatches the relevant position specialists itself, then ranks across positions weighing both prior-season production (floor) and 2026 potential/situation (ceiling) — see `.claude/agents/overall-expert.md`. This is what the `update-top-10` skill uses to populate `state/top-10.md`.
 
 **QB specifically**: always use the `qb-check` skill (or dispatch `qb-expert` directly) rather than recommending a QB from memory or a cached intel file alone. `qb-expert` is required to run a fresh "who is starting" search before assigning a starter-tier recommendation — see `state/research/qb-value-tiers.md` for the round-based weighting scale. This exists because Anthony Richardson was once recommended as a starting rushing-QB1 off a stale cache entry when he'd actually lost his job to a newly-signed starter and was fighting for a backup role.
 
