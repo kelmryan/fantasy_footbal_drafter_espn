@@ -317,3 +317,22 @@ _Last updated: August 27, 2026_
 - **Status:** Unknown
 - **2026 Rank:** Not in top-100 WRs
 - **News:** Practice squad/depth WR; no fantasy relevance; avoid
+
+## Week 2 waiver notes (verified Sep 14, 2026)
+
+## Dontayvion Wicks - PHI
+- **Bye Week:** 9
+- **Status:** Healthy. Wk1 vs WSH: 2/4 for 73 + TD (64-yd catch); tied 3rd in team targets. Beat writers: looked like the true WR2 with D. Smith drawing coverage. Big-play line, not yet a PPR-floor line — needs 5-6 tgt/gm to be a real add.
+
+## Adonai Mitchell - NYJ
+- **Bye Week:** 12
+- **Status:** Listed starter opposite Garrett Wilson. Wk1 3/3 for 60. Rough next 3 (GB, @DET, @CHI).
+
+## Jordan Addison - MIN (UPDATE Sep 14)
+- Wk1 0.0 = 0-for-2 targets, NOT injury/suspension. Kyler Murray concussed Q1; Wentz threw 9 of his targets to Jefferson. Murray unlikely Wk2 @ CHI (Wentz starts). QB event, not a role change — HOLD.
+
+## Tre Tucker - LV (UPDATE Sep 14)
+- Wk1: 2 rec/27 yds. Kirk Cousins started (not Mendoza). Bowers dominates targets — WR5 profile. First WR drop candidate.
+
+## Quentin Johnston - LAC (UPDATE Sep 14)
+- Wk1: 2/6 for 17. McConkey (ribs) day-to-day — Johnston's share rises if he sits. Hold over Tucker.

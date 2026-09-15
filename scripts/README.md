@@ -272,3 +272,10 @@ kill [PID]
 # Or kill all instances
 pkill -f auto-research.sh
 ```
+
+## espn-free-agents.py — live ESPN wire + roster pull
+
+Pulls the click clack free-agent pool and Kelly's roster/FAAB straight from ESPN's fantasy API
+(the league is private, so it needs `ESPN_S2` + `SWID` in a repo-root `.env` — see `.env.example`).
+Used by the `espn-waiver-advisor` skill. Run `python3 scripts/espn-free-agents.py --help` for options
+(`--pos`, `--limit`, `--sort own|trend|proj|avg|season`, `--week`, `--json`).

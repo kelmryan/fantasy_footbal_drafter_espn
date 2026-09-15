@@ -78,3 +78,15 @@ _Last updated: August 29, 2026_
 - **Status:** Healthy
 - **2026 Rank:** QB25-30 (backup/streaming)
 - **News:** Career journeyman; spot-start streaming option only; not worth rostering in 1QB leagues
+
+## Week 2 verification (Sep 14, 2026 — fresh search)
+
+## Bryce Young - CAR — VERIFIED starter + captain
+- **Bye Week:** 5
+- Wk1 @ CHI (L 37-59): 23/37, 361 yds, 3 TD, 1 INT + rush TD = 31.4. Carolina's D gave up 59 → negative game script forces 35+ attempts weekly; goal-line rushing survives the 4-pt pass TD discount. Tier B, ROS ~QB12-16 (16-18 PPG). Next 3: @ATL, @CLE, vs DET.
+
+## Daniel Jones - IND (UPDATE Sep 14) — VERIFIED starter, downgraded Tier A → B/C
+- Wk1 @ BAL: 19/31, 166 yds, 1 TD, 1 INT, ~4 rush yds = 9.0. Post-Achilles, showed no rushing floor — the entire basis for the Tier A call. Run-first (Taylor) scheme caps volume. Wk2 @ KC on SNF. Re-evaluate after Wk2.
+
+## C.J. Stroud - HOU (UPDATE Sep 14) — VERIFIED starter
+- Wk1 vs BUF: 26/38, 274, 2 TD, 0 INT, 2 fumbles = 16.5. Tier B, 13-16 floor, no rushing. Start over Jones in Wk2 (vs CIN, allowed 27 to TB).

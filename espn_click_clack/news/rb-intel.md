@@ -290,3 +290,21 @@ _Last updated: August 29, 2026_
 - **Injury History:** Tore ACL in college, re-tore same knee Dec 2024; missed entire 2025 season
 - **Role:** RB2/change-of-pace behind Chuba Hubbard; ~15-touch ceiling
 - **News:** High-risk/high-reward late-round flier; injury to Hubbard boosts Brooks' stock; ACL concerns cap upside
+
+## Week 2 waiver adds (verified Sep 14, 2026)
+
+## Kaelon Black - SF (rookie, 3rd-round pick)
+- **Bye Week:** 8
+- **Status:** Healthy. Wk1 vs LAR: 14 car/65 yds vs CMC 10/68; snaps CMC 35 / Black 28 (44%); routes 22/13. Subbed in on the FIRST series (before any lead). Shanahan: "that was the goal for us coming in, trying to balance it out more."
+- **Fantasy:** ~7-10 PPG standalone FLEX floor + CMC (age 30, 413 touches in 2025) contingency. Wk2 vs MIA is the confirmation test — if <25% snaps in a close game, downgrade to handcuff-only.
+
+## Kaleb Johnson - GB
+- **Bye Week:** 11
+- **Status:** Traded PIT→GB after Josh Jacobs hit the Commissioner's Exempt List (~6 games). Wk1: ZERO offensive snaps (Chris Brooks 38, MarShawn Lloyd 30). Speculative only; recheck after Wk2 @ NYJ.
+
+## Zach Charbonnet - SEA
+- **Bye Week:** 11
+- **Status:** Reserve/PUP, torn ACL Jan 2026. Earliest return Wk5, realistically Wk6-8. Backfield: rookie Jadarian Price, Holani, E. Wilson. Would be presumptive lead back when healthy — but dead bench spot for 4-7 weeks (no IR slot).
+
+## Tyjae Spears - TEN (UPDATE Sep 14)
+- Lost the three-down role to Pollard. Wk1: 5 touches/24 yds in a 195-yd offense. Replacement level; droppable.

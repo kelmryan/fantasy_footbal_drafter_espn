@@ -44,3 +44,10 @@ Last updated: 2026-08-29 (draft pick ~154-169, pre-2026-season research pass). E
 - Confirmed fresh (2026 offseason): all DC/HC continuity/change facts, all FA/draft additions named, and all PPG/yards-allowed figures except one.
 - Estimated/inferred: Washington's total yards-allowed/game (built from confirmed pass-yards + inferred rush component) — directionally right (~22nd) but not exact.
 - No 2026 in-season data exists yet (preseason as of Aug 29) — all performance figures are necessarily 2025 season data.
+
+## Week 2 streaming (verified Sep 14, 2026)
+- **Buccaneers** vs CLE (Watson: 272 yds/10 pts Wk1) — top Wk2 option; next 3 vs CLE, vs MIN, vs GB, all home. ROS-hold candidate through Wk4.
+- **49ers** vs MIA (Malik Willis at QB, 13 pts, 2/10 on 3rd down) — #2; next vs ARI, vs DEN. 2-3 week hold.
+- **Raiders** @ LAC (268 yds/14 pts) — one-week stream only.
+- **Vikings** @ CHI (Bears scored 59 Wk1) — worst on board; then @TB. Drop.
+- **Bengals** @ HOU, **Bears** vs MIN — avoid; Wk1 takeaway-driven lines don't carry.

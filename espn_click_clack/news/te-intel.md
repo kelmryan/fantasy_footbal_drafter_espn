@@ -95,3 +95,12 @@ _Last updated: August 27, 2026_
 - **Status:** Unknown
 - **2026 Rank:** Not in top-30 TEs
 - **News:** Veteran depth piece; no fantasy value unless injury to starter; avoid
+
+## Week 2 waiver notes (verified Sep 14, 2026)
+
+## Mike Gesicki - CIN
+- **Bye Week:** 10
+- Wk1 vs TB: 5/7 for 78 + TD, led CIN in targets — but on 21 snaps / 17 routes (Drew Sample 42 snaps). Rotational red-zone piece, TD-dependent. Not a ROS add.
+
+## Dalton Schultz - HOU (UPDATE Sep 14)
+- Wk1 5/8 for 35, one drop. Still clear TE1. Keep as LaPorta hedge (LaPorta plays TNF Wk2; missed 8 games in 2025).
