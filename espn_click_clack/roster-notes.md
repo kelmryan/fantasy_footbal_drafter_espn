@@ -2,36 +2,33 @@
 
 _Claude: keep this current as the season goes — it's your memory across separate Claude Code sessions. Overwrite stale info rather than appending a history log. `python3 scripts/espn-free-agents.py` pulls the live roster + FAAB from ESPN; the live pull always wins over this file._
 
-**FAAB remaining:** $100 of $100 (live from ESPN, Sep 14 2026)
+**Record:** 3-0 (352.2 PF / 249.3 PA)
+**FAAB remaining:** $44 of $100 (live from ESPN, Oct 3 2026)
 
-## Current roster (live from ESPN, Sep 14 2026 — before Week 1 MNF)
+## Current roster (live from ESPN, Oct 3 2026 — Week 4, before Sunday games)
 
-| Slot | Player | Bye | Notes |
-|------|--------|-----|-------|
-| QB | Daniel Jones (IND) | 13 | |
-| RB | Bijan Robinson (ATL) | 11 | |
-| RB | Javonte Williams (DAL) | 14 | |
-| WR | Rashee Rice (KC) | 5 | active for MNF 9/14 (knee — full practices, no designation) |
-| WR | DK Metcalf (PIT) | 9 | |
-| TE | Sam LaPorta (DET) | 6 | |
-| FLEX | Chuba Hubbard (CAR) | 5 | |
-| D/ST | Vikings D/ST | 6 | @CHI Wk2 — swap for Bucs |
-| K | Andy Borregales (NE) | 11 | streamable |
-| BE | Stefon Diggs (WSH) | 7 | |
-| BE | Jordan Addison (MIN) | 6 | Wk1 zero = Wentz/Jefferson funnel, not injury — HOLD |
-| BE | Tyjae Spears (TEN) | 9 | lost role to Pollard — drop candidate #1 |
-| BE | Quentin Johnston (LAC) | 7 | |
-| BE | Tre Tucker (LV) | 13 | WR5 profile — drop candidate #2 |
-| BE | Dalton Schultz (HOU) | 8 | TE2 — drop candidate |
-| BE | C.J. Stroud (HOU) | 8 | replaced Anthony Richardson post-draft; QB2 |
+| Slot | Player | Bye | Season avg | Notes |
+|------|--------|-----|-----------|-------|
+| QB | Bryce Young (CAR) | 5 | 23.1 | |
+| RB | Bijan Robinson (ATL) | 11 | 25.9 | |
+| RB | Javonte Williams (DAL) | 14 | 16.8 | |
+| WR | Rashee Rice (KC) | 5 | 12.7 | |
+| WR | Stefon Diggs (WSH) | 7 | 14.8 | |
+| TE | Sam LaPorta (DET) | 6 | 11.5 | |
+| FLEX | Chuba Hubbard (CAR) | 5 | 17.7 | |
+| D/ST | Buccaneers D/ST | 10 | 6.3 | |
+| K | Tyler Bass (BUF) | 7 | 8.0 | |
+| BE | DK Metcalf (PIT) | 9 | 10.8 | |
+| BE | Jordan Addison (MIN) | 6 | 8.0 | Wk4 proj 14.8 > Diggs 12.8 |
+| BE | Tyjae Spears (TEN) | 9 | 4.6 | Q; drop candidate #1 |
+| BE | Quentin Johnston (LAC) | 7 | 4.4 | drop candidate #2 |
+| BE | Tre Tucker (LV) | 13 | 12.0 | |
+| BE | Dalton Schultz (HOU) | 8 | 13.2 | TE2 |
+| BE | Kirk Cousins (LV) | 13 | 18.7 | QB2 — covers Young's Wk5 bye |
 
-Bye clusters to watch: **Week 5** (Rice + Hubbard), **Week 6** (LaPorta + Addison + MIN D/ST), **Week 7** (Diggs + Johnston).
+Bye clusters: **Week 5** (Young + Rice + Hubbard — Cousins starts at QB), **Week 6** (LaPorta + Addison), **Week 7** (Diggs + Johnston + Bass).
 
 ## Standing watch items
 
-- **Week 2 waiver recs (Sep 14):** Black/Spears $14, Bucs/Vikings $4 (49ers $2 backup). Bryce Young/Jones $9 (per Kelly's QB-even weighting: Young ~17.5 vs Stroud ~15.5 vs Jones ~14.0 ROS PPG; 80% on the move). Wicks/Tucker deferred (58%).
-- **Two QBs is a wasted bench spot** (92%) — cut to one by Week 3-4. Jones (@KC Wk2) vs Stroud (vs CIN Wk2): start Stroud Wk2; the result settles which one goes.
-- **Lineup protection is OFF.** LaPorta plays TNF Wk2 (DET @ BUF) — set TE before Thursday. Wk4: IND @ WSH in London 9:30 AM ET (Jones, Diggs).
-- Watch: Kaelon Black snap share Wk2 vs MIA (<25% in a close game = handcuff-only). McConkey (ribs) status affects Johnston. Murray concussion affects Addison.
-- Handcuffs not on wire: Bijan → Brian Robinson Jr; Javonte → Hunter Luepke; Hubbard → Jonathon Brooks.
-- No IR slot: any long-term injury eats a bench spot — Tucker/Schultz are the next cuts after Spears.
+- Oct 3 recs: add Bills D/ST (free agent, vs NO Wk4) dropping Spears; optional $1-3 claim on Roman Wilson (PIT) for Johnston.
+- No IR slot: any long-term injury eats a bench spot.
