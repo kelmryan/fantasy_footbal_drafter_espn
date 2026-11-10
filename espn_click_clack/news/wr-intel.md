@@ -336,3 +336,20 @@ _Last updated: August 27, 2026_
 
 ## Quentin Johnston - LAC (UPDATE Sep 14)
 - Wk1: 2/6 for 17. McConkey (ribs) day-to-day — Johnston's share rises if he sits. Hold over Tucker.
+
+---
+## In-season updates (verified Oct 25, 2026 - Week 7)
+
+**Rashee Rice (KC)** - Right hamstring, Week 4 at LV (left after 6 snaps). Missed Wk6 vs LAC; missed Wed practice before Wk7 at SEA; one unconfirmed report says downgraded to doubtful. Reid: "better by the day, still ramping up." Looks like a week-to-week soft-tissue injury, not a long-term one. Hold.
+
+**Jordan Addison (MIN)** - Missed Wk5 (hamstring), bye Wk6, full practice Wed Oct 21. Wk7 is home vs IND. Jefferson (ankle) limited, so Addison could see extra targets if JJ is held back. Projected as a WR4/flex.
+
+**Josh Downs (IND)** - Alec Pierce (heel) has been on IR since Sep 23 (at least 4 weeks). Downs: 24-289-0 on 42 targets through Wk6 (7 tgt/g), under 50 yds in 4 of 6 games. Keenan Allen signed and led the Colts with 11 targets in Wk6 (Downs had 4-40 on 8). Steady slot volume, low ceiling. Wk7 at MIN is a tough matchup.
+
+**Christian Kirk (SF)** - Calf strain Jul 26, IR-DTR Aug 30, back at practice Oct 19-20, expected to debut Wk7 at ATL. SF is thin at WR (Evans, Cooks, Cowing, Watkins). Stash only; expect limited snaps at first.
+
+**Caleb Douglas (MIA)** - Rookie. Wk1: 5-94 on 7 tgts, 86% route participation, 26% target share. Miami is a low-volume passing offense, and Chris Bell (ACL) returning could cut into his targets. No October data found.
+
+**Makai Lemon (PHI)** - Rookie. Wk4 (no DeVonta Smith): 74% snaps, 3-27 on 6 tgts; Darius Cooper led PHI with 7 tgts that game. Wicks OUT should raise Lemon's routes. No Wk5-7 data found.
+
+**Adonai Mitchell (NYJ) / Konata Mumpfield (LAR)** - No 2026 in-season role data found. Mumpfield is the LAR WR3 behind Nacua/Adams and only has a role if Adams misses time.

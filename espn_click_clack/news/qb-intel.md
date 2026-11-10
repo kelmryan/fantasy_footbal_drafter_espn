@@ -57,6 +57,8 @@ _Last updated: August 29, 2026_
 ## Kyler Murray - MIN (traded/signed from ARI)
 - **VERIFIED Aug 29, 2026 (fresh search):** Vikings named Murray the CONFIRMED 2026 Week 1 starter on Aug 11, 2026, beating out J.J. McCarthy in a camp competition. Signed a one-year deal with Minnesota after 7 years in Arizona; missed most of 2025 with a foot injury (5 games played) but has a real dual-threat rushing profile and joins one of the league's more efficient offenses under Kevin O'Connell. **Tier A** per qb-value-tiers.md (confirmed starter, real rushing floor) — exceptional value if he's still on the board this late, since this news is recent enough some league-mates may not have priced it in yet. Not in this league's drafted-16 list. Injury history (foot) is the real risk. Sources: Vikings.com, NFL.com, Star Tribune (Aug 11, 2026).
 
+- **UPDATE Oct 25, 2026 (fresh search, Wk7):** Starting vs IND (home, MIN -6.5). Not on Friday injury report; full skill group back (Jefferson, Addison, Hockenson; Mason Q-expected). Season: Wk1 concussion (left early), missed Wk2 (Wentz started), bye Wk6 -> 4 games, 9.9 PPG, -0.15 EPA/dropback = game-manager output so far. Colts 2-4, Sauce Gardner out. Downgrade Tier A -> B/C until production shows up. Sources: Star Tribune (Oct 23), FantasyLife, Dimers, SI Vikings (Oct 2026).
+
 ## Baker Mayfield - TB
 - **VERIFIED Aug 29, 2026 (fresh search):** CONFIRMED "unquestioned starter" for Tampa Bay entering 2026, per Buccaneers.com and CBS Sports (Jul-Aug 2026 camp coverage). Contract extension talks stalled (playing on final year, pending 2027 free agency) but no impact on 2026 starting job — full confidence he plays out the season as QB1. Has scrambling ability (moderate rushing floor, not elite). **Tier B, borderline A** per qb-value-tiers.md. Not in this league's drafted-16 list. Sources: Buccaneers.com, CBS Sports, Pro Football Rumors (Jul-Aug 2026).
 
@@ -84,6 +86,8 @@ _Last updated: August 29, 2026_
 ## Bryce Young - CAR — VERIFIED starter + captain
 - **Bye Week:** 5
 - Wk1 @ CHI (L 37-59): 23/37, 361 yds, 3 TD, 1 INT + rush TD = 31.4. Carolina's D gave up 59 → negative game script forces 35+ attempts weekly; goal-line rushing survives the 4-pt pass TD discount. Tier B, ROS ~QB12-16 (16-18 PPG). Next 3: @ATL, @CLE, vs DET.
+
+- **UPDATE Oct 25, 2026 (fresh search, Wk7):** Starting vs TB (home, CAR -3, O/U 44.5). Knee on report but FP Wed/Thu/Fri, no game status. 309.8 pass ypg, 281+ yds in all 5 starts, 22.1 PPG. TB 1-5, Mayfield (thumb) uncertain. Tier A-/B+ weekly start. Sources: ESPN Wk7 guide, Yahoo/SI Panthers, BVM Sports (Oct 22, 2026).
 
 ## Daniel Jones - IND (UPDATE Sep 14) — VERIFIED starter, downgraded Tier A → B/C
 - Wk1 @ BAL: 19/31, 166 yds, 1 TD, 1 INT, ~4 rush yds = 9.0. Post-Achilles, showed no rushing floor — the entire basis for the Tier A call. Run-first (Taylor) scheme caps volume. Wk2 @ KC on SNF. Re-evaluate after Wk2.

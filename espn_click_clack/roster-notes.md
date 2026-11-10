@@ -2,33 +2,31 @@
 
 _Claude: keep this current as the season goes — it's your memory across separate Claude Code sessions. Overwrite stale info rather than appending a history log. `python3 scripts/espn-free-agents.py` pulls the live roster + FAAB from ESPN; the live pull always wins over this file._
 
-**Record:** 3-0 (352.2 PF / 249.3 PA)
-**FAAB remaining:** $44 of $100 (live from ESPN, Oct 3 2026)
+**FAAB remaining:** $36 of $100 (live from ESPN, Oct 25 2026)
 
-## Current roster (live from ESPN, Oct 3 2026 — Week 4, before Sunday games)
+## Current roster (live from ESPN, Oct 25 2026 — Week 7)
 
 | Slot | Player | Bye | Season avg | Notes |
 |------|--------|-----|-----------|-------|
-| QB | Bryce Young (CAR) | 5 | 23.1 | |
-| RB | Bijan Robinson (ATL) | 11 | 25.9 | |
-| RB | Javonte Williams (DAL) | 14 | 16.8 | |
-| WR | Rashee Rice (KC) | 5 | 12.7 | |
-| WR | Stefon Diggs (WSH) | 7 | 14.8 | |
-| TE | Sam LaPorta (DET) | 6 | 11.5 | |
-| FLEX | Chuba Hubbard (CAR) | 5 | 17.7 | |
-| D/ST | Buccaneers D/ST | 10 | 6.3 | |
-| K | Tyler Bass (BUF) | 7 | 8.0 | |
-| BE | DK Metcalf (PIT) | 9 | 10.8 | |
-| BE | Jordan Addison (MIN) | 6 | 8.0 | Wk4 proj 14.8 > Diggs 12.8 |
-| BE | Tyjae Spears (TEN) | 9 | 4.6 | Q; drop candidate #1 |
-| BE | Quentin Johnston (LAC) | 7 | 4.4 | drop candidate #2 |
-| BE | Tre Tucker (LV) | 13 | 12.0 | |
-| BE | Dalton Schultz (HOU) | 8 | 13.2 | TE2 |
-| BE | Kirk Cousins (LV) | 13 | 18.7 | QB2 — covers Young's Wk5 bye |
+| QB | Bryce Young (CAR) | 5 | 22.1 | |
+| RB | Bijan Robinson (ATL) | 11 | 21.4 | |
+| RB | Javonte Williams (DAL) | 14 | 18.2 | |
+| WR | DK Metcalf (PIT) | 9 | 11.5 | |
+| WR | Germie Bernard (PIT) | 9 | 8.8 | |
+| TE | Sam LaPorta (DET) | 6 | 15.3 | |
+| FLEX | Chuba Hubbard (CAR) | 5 | 19.6 | |
+| D/ST | Panthers D/ST | 5 | 4.8 | streamable |
+| K | Harrison Butker (KC) | 5 | 9.2 | |
+| BE | Rashee Rice (KC) | 5 | 9.5 | OUT |
+| BE | Stefon Diggs (WSH) | 7 | 13.9 | bye Wk7 |
+| BE | Jordan Addison (MIN) | 6 | 8.3 | |
+| BE | Dalton Schultz (HOU) | 8 | 9.3 | TE2 |
+| BE | Kyler Murray (MIN) | 6 | 9.9 | QB2 (replaced Brissett) |
+| BE | Darius Cooper (PHI) | 10 | 7.6 | drop pool |
+| BE | Tre' Harris (LAC) | 7 | 7.5 | Q, bye Wk7 — drop pool |
 
-Bye clusters: **Week 5** (Young + Rice + Hubbard — Cousins starts at QB), **Week 6** (LaPorta + Addison), **Week 7** (Diggs + Johnston + Bass).
+Bye clusters ahead: **Week 9** (Metcalf + Bernard — both starting WRs), Week 10 (Cooper), Week 11 (Bijan).
 
 ## Standing watch items
 
-- Oct 3 recs: add Bills D/ST (free agent, vs NO Wk4) dropping Spears; optional $1-3 claim on Roman Wilson (PIT) for Johnston.
 - No IR slot: any long-term injury eats a bench spot.
